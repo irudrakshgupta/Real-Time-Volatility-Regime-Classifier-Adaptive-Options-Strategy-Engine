@@ -6,7 +6,7 @@ Real-Time Volatility Regime Classifier & Adaptive Options Strategy Engine
 
 ## 🚀 Overview
 
-VolCortex is a sophisticated financial analytics platform that combines real-time market data analysis, machine learning-based volatility regime classification, and adaptive options strategy recommendations. The system provides traders and analysts with actionable insights by automatically identifying market regimes and suggesting optimal options trading strategies.
+A sophisticated financial analytics platform that combines real-time market data analysis, machine learning-based volatility regime classification, and adaptive options strategy recommendations. The system provides traders and analysts with actionable insights by automatically identifying market regimes and suggesting optimal options trading strategies.
 
 ## 🌟 Key Features
 
